@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3735041f13eaf4bba906b3069c9e75, type: 3}
+  m_Name: Pidgey
+  m_EditorClassIdentifier: 
+  basePokemon: {fileID: 11400000, guid: a3bf873435913404a91b804ecb72bff9, type: 2}
+  rarity: 0
+  level: 10
+  moves:
+  - {fileID: 11400000, guid: c6e7485a614c2df4eb2e34901f105d02, type: 2}
+  MaxHp: 50
+  CurrentHp: -10
+  Attack: 50
+  Defense: 50
+  Speed: 50

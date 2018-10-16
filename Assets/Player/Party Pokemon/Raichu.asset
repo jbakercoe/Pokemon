@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3735041f13eaf4bba906b3069c9e75, type: 3}
+  m_Name: Raichu
+  m_EditorClassIdentifier: 
+  basePokemon: {fileID: 11400000, guid: a3c437c5f706aff44a59993451c7789a, type: 2}
+  rarity: 0
+  level: 33
+  moves:
+  - {fileID: 11400000, guid: aadaf2d1e6bf44d47a3f715c3f4da7fc, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  MaxHp: 94
+  CurrentHp: 94
+  Attack: 75
+  Defense: 66
+  Speed: 102

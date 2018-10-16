@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3735041f13eaf4bba906b3069c9e75, type: 3}
+  m_Name: Charizard
+  m_EditorClassIdentifier: 
+  basePokemon: {fileID: 11400000, guid: 01536d9e72b8e534f924df612421a5da, type: 2}
+  rarity: 0
+  level: 39
+  moves:
+  - {fileID: 11400000, guid: ec19de0df2fe5de43a0da4e138e1866f, type: 2}
+  - {fileID: 11400000, guid: 110102c30522f4e4abcb966cf60b55a2, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  MaxHp: 105
+  CurrentHp: 101
+  Attack: 90
+  Defense: 70
+  Speed: 69
